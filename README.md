@@ -1,5 +1,5 @@
 
-Hi, I'm [Blake Werlinger](https://www.linkedin.com/in/blake-werlinger-757152202), a passionate self-taught software developer / software engineer. with a goal of developing new and useful technologies.
+Hi, I'm [Blake Werlinger](https://www.linkedin.com/in/blake-werlinger-757152202), a passionate self-taught software developer / software engineer with a goal of developing new and useful technologies.
 
 I have experience in the following languages and frameworks and this list
 <ul>
