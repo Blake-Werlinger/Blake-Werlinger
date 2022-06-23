@@ -12,7 +12,6 @@ I have experience in the following languages and frameworks and this list
     <li> C# </li>
     <li> Flask </li>
     <li> HTML / CSS </li>
-    <li> Python </li>
 </ul>
 
 This list is always growing and I'm always up to learning new frameworks and languages.
